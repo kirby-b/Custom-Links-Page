@@ -2183,6 +2183,10 @@ video {
   text-decoration-line: none;
 }
 
+.decoration-slate-500 {
+  text-decoration-color: #64748b;
+}
+
 .decoration-solid {
   text-decoration-style: solid;
 }
@@ -2201,6 +2205,10 @@ video {
 
 .decoration-wavy {
   text-decoration-style: wavy;
+}
+
+.underline-offset-4 {
+  text-underline-offset: 4px;
 }
 
 .antialiased {
